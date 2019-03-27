@@ -1,5 +1,6 @@
 title: Agile Open Ecuador
 logo: /assets/img/logo.png
+agile_ecuador_logo: /assets/img/agile-ecuador-logo.png
 email: comunidad@agileecuador.org
 description: >- # this means to ignore newlines until "baseurl:"
   Este año realizaremos la novena edición en Quito. Co-crearemos libremente bajo un formato de
@@ -7,6 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   para colaborar y mejorar.
 twitter_username: agileEcuador
 github_username:  agileEcuador
+
 
 # Build settings
 markdown: kramdown
