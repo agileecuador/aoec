@@ -6,9 +6,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este año realizaremos la novena edición en Quito. Co-crearemos libremente bajo un formato de
   charlas abierto donde cada quién es un actor clave en el éxito de este espacio 
   para colaborar y mejorar.
-twitter_username: agileEcuador
-github_username:  agileEcuador
 
+redes:
+  twitter: agileEcuador
+  github: agileEcuador
+  linkedin: agileEcuador
+  facebook: agileEcuador
+  instagram: agileEcuador
+  meetup: agileEcuador
 
 # Build settings
 markdown: kramdown

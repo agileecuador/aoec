@@ -1,0 +1,45 @@
+{% assign redes = site.redes %}
+
+<section id="redes">
+    <ul>
+{% if redes.twitter %}
+        <li>
+            <a href="https://twitter.com/{{ redes.twitter }}" target="_blank">
+                <i class="fab fa-twitter"></i> Twitter
+            </a>
+        </li>
+{% endif %}
+
+{% if redes.github %}
+        <li>
+            <a href="https://github.com/{{ redes.github }}" target="_blank">
+                <i class="fab fa-github"></i> GitHub
+            </a>
+        </li>
+{% endif %}
+
+{% if redes.linkedin %}
+        <li>
+            <a href="https://linkedin.com/in/{{ redes.linkedin }}" target="_blank">
+                <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+        </li>
+{% endif %}
+
+{% if redes.facebook %}
+        <li>
+            <a href="https://www.facebook.com/{{ redes.facebook }}" target="_blank">
+                <i class="fab fa-facebook"></i> Facebook
+            </a>
+        </li>
+{% endif %}
+
+{% if redes.meetup %}
+        <li>
+            <a href="https://meetup.com/{{ redes.meetup }}" target="_blank">
+                <i class="fab fa-meetup"></i> Meetup
+            </a>
+        </li>
+{% endif %}
+    </ul>
+</section>

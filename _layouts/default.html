@@ -6,11 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <!--[if lt IE 9]>
+    <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
     <![endif]-->
-
-{% seo %}
+    {% seo %}
   </head>
 
   <body>
@@ -27,12 +28,9 @@
           {{ content }}
         </section>
 
-        <footer>
-            <p>
-                <img src="{{site.agile_ecuador_logo | relative_url}}" alt="Agile Ecuador" />
-            </p>
-        </footer>
-
+        {% include redes.html %}
+      
+        <footer><img src="{{site.agile_ecuador_logo | relative_url}}" alt="Agile Ecuador" /></footer>
       </div>
     </div>
   </body>
