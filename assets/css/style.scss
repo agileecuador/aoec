@@ -3,6 +3,20 @@
 
 @import "jekyll-theme-tactile";
 
+a.button {
+  width: 120px;
+}
+
+a.button span {
+  display: block;
+  height: 23px;
+  padding-left: 20px;
+}
+
+#download-zip span {
+  background: transparent 12px 50% no-repeat;
+}
+
 #redes {
   margin-top: 30px;
   text-align: center;
