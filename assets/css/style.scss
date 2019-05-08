@@ -17,6 +17,12 @@ a.button span {
   background: transparent 12px 50% no-repeat;
 }
 
+@media only screen and (max-width: 767px) {
+  #download-zip, #download-tar-gz {
+    display: block;
+  }
+}
+
 #redes {
   margin-top: 30px;
   text-align: center;
