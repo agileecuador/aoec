@@ -9,8 +9,8 @@ description: Preguntas frecuentes
 Un Open Space es un formato de charlas abierto, donde la principal ventaja es la generación dinámica y participativa de la agenda del evento, durante la primera parte del mismo. Dicha agenda es creada por todos los participantes del evento. Cada participante es un actor clave en el éxito de este espacio. 
 Todo participante tiene derecho a proponer una charla, organizar un grupo de discusión, o simplemente una conversación informal sobre el tema de su preferencia.
 
-Mas detalles ver video: ***[Open Space Technology](https://www.youtube.com/watch?v=RUryjnsuPUI" target="_blank)***
-[![Open Space Technology](https://img.youtube.com/vi/RUryjnsuPUI/0.jpg)](https://www.youtube.com/watch?v=RUryjnsuPUI" target="_blank)
+Mas detalles ver video: ***[Open Space Technology](https://www.youtube.com/watch?v=RUryjnsuPUI target=_blank)***
+[![Open Space Technology](https://img.youtube.com/vi/RUryjnsuPUI/0.jpg)](https://www.youtube.com/watch?v=RUryjnsuPUI target=_blank)
 
 # ¿Cómo funciona un Open Space?
 
