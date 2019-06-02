@@ -10,6 +10,7 @@ Un Open Space es un formato de charlas abierto, donde la principal ventaja es la
 Todo participante tiene derecho a proponer una charla, organizar un grupo de discusión, o simplemente una conversación informal sobre el tema de su preferencia.
 
 Mas detalles ver video: **"*[Open Space Technology](https://www.youtube.com/watch?v=RUryjnsuPUI" target="_blank)*"**
+[![Open Space Technology](https://img.youtube.com/vi/RUryjnsuPUI/0.jpg)](https://www.youtube.com/watch?v=RUryjnsuPUI" target="_blank)
 
 # ¿Cómo funciona un Open Space?
 
